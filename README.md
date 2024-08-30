@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">BOOCAM</h1>
 <h3 align="center">부트캠프 수강생을 위한 정보 제공형 익명 커뮤니티</h3>
-배포 링크: https://boocam.net (서버 비용 문제로 작동하지 않습니다.)
+
 
 
 
@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/Axios-1.5.0-56A5EB?logo=axios" alt="Axios">
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel" alt="Vercel">
 </p>
+## 참고
+배포 링크: https://boocam.net (서버 비용 문제로 작동하지 않습니다.)
 
 ## 페이지별 기능
 ### 로그인
