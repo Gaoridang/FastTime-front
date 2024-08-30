@@ -4,6 +4,9 @@
 </p>
 <h1 align="center">BOOCAM</h1>
 <h3 align="center">부트캠프 수강생을 위한 정보 제공형 익명 커뮤니티</h3>
+배포 링크: https://boocam.net (서버 비용 문제로 작동하지 않습니다.)
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-18.2.0-61DAFB?logo=react" alt="React">
